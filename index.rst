@@ -42,6 +42,7 @@ The ActualPosition sometimes goes to zero, but this seems to happen independentl
 .. figure:: /_static/EncoderDisagreement_03_16.png 
 
 03-21-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_21.png 
 
 03-22-2023:
