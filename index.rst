@@ -25,23 +25,30 @@ Occassionally, encoder 3 will register a 360 offset in azimuth from the other en
 The ActualPosition sometimes goes to zero, but this seems to happen independently for the azimuth and elevation. The small (<5 degree), high-frequency differences between the individual encoders and the ActualPosition seem to always happen during slews, where the encoders are sometimes all systematically offset from the ActualPosition.
 
 03-15-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_15.png 
+   :name: encoders-03-15
 
 03-16-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_16.png 
 
 03-17-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_16.png 
 
 03-18-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_16.png 
 
 03-21-2023:
 .. figure:: /_static/EncoderDisagreement_03_21.png 
 
 03-22-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_22.png 
 
 03-23-2023:
+
 .. figure:: /_static/EncoderDisagreement_03_23.png 
 
