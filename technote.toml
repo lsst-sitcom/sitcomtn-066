@@ -1,0 +1,20 @@
+[technote]
+id = "SITCOMTN-066"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-066.lsst.io/"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-066"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Clare", family = "Saunders"}
+internal_id = "saundersc"
+orcid = "https://orcid.org/0000-0002-4094-2102"
+[[technote.authors.affiliations]]
+name = "Department of Astrophysical Sciences"
+internal_id = "Princeton-Astro"
+address = "Princeton University, Princeton, NJ 08544, USA"
+
+[technote.status]
+state = "stable"
